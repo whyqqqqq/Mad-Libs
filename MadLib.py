@@ -4,7 +4,7 @@ print "Now choose a number:",
 number = raw_input()
 print "and now, a holiday:",
 holiday = raw_input()
-print "now enter a noun in plural form:",
+print "now, enter a noun in plural form:",
 noun = raw_input()
 print "now, a verb ending in 'ed':",
 verbed = raw_input()
